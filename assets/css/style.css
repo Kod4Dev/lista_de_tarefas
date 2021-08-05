@@ -176,6 +176,10 @@ body {
   font-size: 25px;
 }
 
+.footerzin{
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
+}
 
-
-/*# sourceMappingURL=style.css.map */
