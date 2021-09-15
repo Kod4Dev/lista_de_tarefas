@@ -13,4 +13,4 @@
 <img src="https://media2.giphy.com/media/rTWyTFZocqBMMXDeg6/giphy.gif?cid=790b7611429aac7cd1c3995dc59936fb5b5f45577f496d56&rid=giphy.gif&ct=g" alt="Imagem do site">
 
 
-<a href="https://www.discord.gg/CZaYaJGcMP" target="_blank" style="text-align: center;"><p>Site desenvolvido por Kod4#0001</p></a>
+<a href="https://dsc.gg/rkgstore" target="_blank" style="text-align: center;"><p>Site desenvolvido por Kod4#0001</p></a>
